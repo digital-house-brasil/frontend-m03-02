@@ -11,7 +11,7 @@
 </details>
 
 <details>
-<summary>2 - Elementos HTML e seus atributos</summary>
+<summary>2 - Elementos HTML</summary>
 
 - Um elemento é um componente que compõe o HTML. 
 - Os elementos são compostos por tags. 
