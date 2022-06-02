@@ -201,20 +201,32 @@ EX da tag `<img>`:
                     <li>Professor de informática</li>
                 </ul>
             </section>
-
-            <section>
-                <h2 align="center">Formação Acadêmica</h2>
-                <ul>
-                    <li>MBA - Engenharia de Software</li>
-                    <li>Administração de Banco de Dados</li>
-                    <li>Graduado - Ciências da Computação</li>
-                </ul>
-            </section>
         </main>
 
-    </body>
+        <hr>
 
+        <footer>
+            <section>
+                <h2 align="center">Contatos</h2>
+                <ul>
+                    <li>
+                        <a href="https://www.linkedin.com/in/diegopereirati/">
+                            <img src="./assets/linkedin.png" alt="github" width="20">
+                            Linkedin
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/dhiegopereira">
+                            <img src="./assets/github.png" alt="github" width="20">
+                            GitHub
+                        </a>
+                    </li>
+                </ul>
+            </section>
+        </footer>
+    </body>
 </html>
+
 ```
 
 > Navegador:
